@@ -1,3 +1,4 @@
 {
-  "numberOfEc2Instance" : 2
+  "numberOfEc2Instance" : 2,
+  "bucketCount": 3
 }
